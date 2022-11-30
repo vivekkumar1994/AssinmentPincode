@@ -6,6 +6,16 @@
     {"id":5,"pin_code":395003,"city":"Surat","state":"Gujrat","address":"Laldarwaja Station Road Surat"},
     {"id":6,"pin_code":380002,"city":"Ahmedabad","state":"Gujrat","address":"Ahmedabad, Laxmi Bazar"},
     {"id":7,"pin_code":360001,"city":"Rajkot","state":"Gujrat","address":"RAILWAY STATION RAJKOT"},
-    {"id":8,"pin_code":823002,"city":"Gaya","state":"Bihar","address":"Maharani road new godown Gaya"}
+    {"id":8,"pin_code":823002,"city":"Gaya","state":"Bihar","address":"Maharani road new godown Gaya"},
+    {"id":9,"pin_code":201011,"city":"Ghaziabad","state":"Uttar-Pradesh","address":"sector-3f vaishali"},
+    {"id":10,"pin_code":401202,"city":"Mumbai","state":"Maharastra","address":"Vasai road"},
+    {"id":11,"pin_code":388001,"city":"Gujrat","state":"Maharastra","address":"Sadarbazar anand"},
+    {"id":12,"pin_code":641009,"city":"Coimbature","state":"Tamil-Nadu","address":"Sai Mandir road coimbature"},
+    {"id":13,"pin_code":560052,"city":"Bangaluru","state":"Karnataka","address":"Station Road, Vasanth Nagar,"}
+   
+
+
+    
+
     
     ]
