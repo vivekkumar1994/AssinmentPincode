@@ -1,17 +1,135 @@
 [
-    {"id":1,"pin_code":823001,"city":"Gaya","state":"Bihar","address":"Chandauti gaya"},
-    {"id":2,"pin_code":800014,"city":"Patna","state":"Bihar","address":"bailey road patna"},
-    {"id":3,"pin_code":201010,"city":"Ghaziabad","state":"Uttar-Pradesh","address":"Mahagun Matro mall vaishali"},
-    {"id":4,"pin_code":122008,"city":"Gurugram","state":"Haryana","address":"Dlf Cyber city Pase-2"},
-    {"id":5,"pin_code":395003,"city":"Surat","state":"Gujrat","address":"Laldarwaja Station Road Surat"},
-    {"id":6,"pin_code":380002,"city":"Ahmedabad","state":"Gujrat","address":"Ahmedabad, Laxmi Bazar"},
-    {"id":7,"pin_code":360001,"city":"Rajkot","state":"Gujrat","address":"RAILWAY STATION RAJKOT"},
-    {"id":8,"pin_code":823002,"city":"Gaya","state":"Bihar","address":"Maharani road new godown Gaya"},
-    {"id":9,"pin_code":201011,"city":"Ghaziabad","state":"Uttar-Pradesh","address":"sector-3f vaishali"},
-    {"id":10,"pin_code":401202,"city":"Mumbai","state":"Maharastra","address":"Vasai road"},
-    {"id":11,"pin_code":388001,"city":"Gujrat","state":"Maharastra","address":"Sadarbazar anand"},
-    {"id":12,"pin_code":641009,"city":"Coimbature","state":"Tamil-Nadu","address":"Sai Mandir road coimbature"},
-    {"id":13,"pin_code":560052,"city":"Bangaluru","state":"Karnataka","address":"Station Road, Vasanth Nagar,"}
+    {"id":1,
+    "pin_code":823001,
+    "state":"Bihar",
+    "address":"Chandauti gaya"
+    ,"city":[{"city_name":"Gaya",
+    "area":
+    [{"area_name":"Bazar Samiti"},
+    {"area_name":"Chandauti Gaon"},
+    {"area_name":"Sirakriya more"},
+    {"area_name":"Hanuman nagar"},
+    {"area_name":"Gango bigha"},
+    {"area_name":"AAhar par"}
+    ]}]},
+    {"id":2,"pin_code":800014,"state":"Bihar","address":"bailey road patna","city":[{"city_name":"Patna",
+    "area":
+    [{"area_name":"PHULWARI"},
+    {"area_name":"Anishabad"},
+    {"area_name":"Dhanapur"},
+    {"area_name":"Jail Road"},
+    {"area_name":"hanuman mandir"},
+    {"area_name":"AIIMS k pass"}
+    ]}]},
+    {"id":3,"pin_code":201010,"state":"Uttar-Pradesh","address":"Mahagun Matro mall vaishali",
+    "city":[{"city_name":"Vaishali",
+    "area":
+    [{"area_name":"setor= 3f Mahagun mall"},
+    {"area_name":"sector= 4a shoprix mall"},
+    {"area_name":"sector=3a Anazal plaza"},
+    {"area_name":"near Durga temple"},
+    {"area_name":"near jain Mandhir"}
+    
+    ]}]},
+    {"id":4,"pin_code":122008,"state":"Haryana","address":"Dlf Cyber city Pase-2",
+    "city":[{"city_name":"Gurugram",
+    "area":
+    [{"area_name":"Sun Villa"},
+    {"area_name":"DLf Oakwoos"},
+    {"area_name":"Sukhdev da dhaba"},
+    {"area_name":"Olive Service Apartment"},
+    {"area_name":"Hotel Indiyaah INN"}
+   
+
+    ]}]},
+    {"id":5,"pin_code":395003,"state":"Gujrat","address":"Laldarwaja Station Road Surat",
+    "city":[{"city_name":"Surat",
+    "area":
+    [{"area_name":"Aganovad"},
+    {"area_name":"Begampura"},
+    {"area_name":"Bhagal"},
+    {"area_name":"Indrapura"},
+    {"area_name":"Sayedpura"}
+   
+
+    ]}]},
+    {"id":6,"pin_code":380002,"state":"Gujrat","address":"Ahmedabad, Laxmi Bazar",
+    "city":[{"city_name":"Ahmedabad",
+    "area":
+    [{"area_name":"Bhut Ni Ambali Rd"},
+    {"area_name":"Meter Gauge Station"},
+    {"area_name":"Saraspur Road"},
+    {"area_name":"Sudha mata Mandhir"},
+    {"area_name":"Ramkumar Mill Compond"}
+   
+
+    ]}]},
+    {"id":7,"pin_code":360001,"state":"Gujrat","address":"RAILWAY STATION RAJKOT",
+    "city":[{"city_name":"Rajkot",
+    "area":
+    [{"area_name":"Hazrat Gebansha Peer Dargah"},
+    {"area_name":"Gayakwadi Main Road"},
+    {"area_name":"Geban Shah Pir Road"},
+    {"area_name":"Overhead Water Tank"},
+    {"area_name":"Raiway Officer Rest House"}
+   
+
+    ]}]},
+    {"id":8,"pin_code":201011,"state":"Uttar-Pradesh","address":"sector-3f vaishali",
+    "city":[{"city_name":"Gaziabad",
+    "area":
+    [{"area_name":"Nehru Nagar"},
+    {"area_name":"Jaiprakash Nagar"},
+    {"area_name":"Nazirpur"},
+    {"area_name":"Vivekanand Nagar"},
+    {"area_name":"Sector-5"}
+   
+
+    ]}]},
+    {"id":9,"pin_code":401202,"state":"Maharastra","address":"Vasai road",
+    "city":[{"city_name":"Mumbai",
+    "area":
+    [{"area_name":"Actan"},
+    {"area_name":"Navghar-Manikpur"},
+    {"area_name":"Vasai-west"},
+    {"area_name":"Tharkhand Road"},
+    {"area_name":"Chobra"}
+   
+
+    ]}]},
+    {"id":10,"pin_code":388001,"state":"Gujrat","address":"Sadarbazar anand",
+    "city":[{"city_name":"Anand",
+    "area":
+    [{"area_name":"Lambhvel Road"},
+    {"area_name":"Keshsav Residancy"},
+    {"area_name":"Yogi Park Socity"},
+    {"area_name":"Vrujkunj Apartment"},
+    {"area_name":"Surya Nagar Society"}
+   
+
+    ]}]},
+    {"id":11,"pin_code":641009,"state":"Tamil-Nadu","address":"Sai Mandir road coimbature",
+    "city":[{"city_name":"Coimbature",
+    "area":
+    [{"area_name":"Kalidas Road"},
+    {"area_name":"Ponnaiyan"},
+    {"area_name":"Yogi Park Socity"},
+    {"area_name":"Rangam Street"},
+    {"area_name":"Kallappa Ln"}
+   
+
+    ]}]},
+    {"id":12,"pin_code":560052,"city":"Bangaluru","state":"Karnataka","address":"Station Road, Vasanth Nagar",
+    "city":[{"city_name":"Coimbature",
+    "area":
+    [{"area_name":"Cunninggham Road"},
+    {"area_name":"Cirus Hotel"},
+    {"area_name":"Vasant Bussiness Park"},
+    {"area_name":"Canara Bank General Branch"},
+    {"area_name":"Third Way Coffe"}
+   
+
+    ]}]}
    
 
 
